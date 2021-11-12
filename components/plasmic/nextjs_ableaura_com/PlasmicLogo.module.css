@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.freeBox {
+  height: 56px;
+  cursor: pointer;
+  display: block;
+  width: 166px;
+  background: url("/plasmic/nextjs_ableaura_com/images/logoLt.svg") 0% 0% / cover;
+  flex-shrink: 0;
+}
+.freeBox__global_theme_dark {
+  display: flex;
+  background: url("/plasmic/nextjs_ableaura_com/images/logoDt.svg") 0% 0% / 100% 100% no-repeat padding-box
+    border-box scroll;
+}
+.freeBox__type_footer {
+  background: url("/plasmic/nextjs_ableaura_com/images/image103.svg") 0% 0% / cover;
+}

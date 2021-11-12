@@ -1,0 +1,69 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background: rgb(245, 247, 250);
+  padding: 24px;
+}
+.freeBox___1MRzP {
+  max-width: 1024px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox___1MRzP > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox___1MRzP > :global(.__wab_flex-container) > *,
+.freeBox___1MRzP > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___1MRzP > :global(.__wab_flex-container) > picture > img,
+.freeBox___1MRzP
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.graphicIcon__z8WfO:global(.__wab_instance) {
+  position: relative;
+}
+.svg__pNz8Q {
+  object-fit: cover;
+  position: relative;
+  left: auto;
+  top: auto;
+  width: 32px;
+  height: 32px;
+  color: rgb(255, 255, 255);
+}
+.freeBox__xnWtt {
+  display: flex;
+  position: relative;
+  height: auto;
+}
+.slotTargetChildren {
+  font-size: 16px;
+  color: rgb(122, 125, 130);
+  line-height: 24px;
+}
+.freeBox__bM09S {
+  display: flex;
+  position: relative;
+}
+.slotTargetSlot {
+  text-align: center;
+}
+.buttonLink:global(.__wab_instance) {
+  position: relative;
+}
+.svg {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: #4a4c4f;
+}

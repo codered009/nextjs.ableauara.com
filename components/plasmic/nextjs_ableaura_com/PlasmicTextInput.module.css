@@ -1,0 +1,21 @@
+.root {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  color: rgb(50, 52, 54);
+  line-height: 24px;
+  height: 40px;
+  flex-grow: 2;
+  position: relative;
+  box-shadow: inset 0px 0px 0px 2px #e4e6eb;
+  border-radius: 6px;
+  padding: 8px 10px;
+  border-width: 0px;
+  border-style: none;
+}
+.root:focus {
+  box-shadow: inset 0px 0px 0px 2px #0091ff;
+  outline: none;
+}
+.root::placeholder {
+  color: rgb(122, 125, 130);
+}

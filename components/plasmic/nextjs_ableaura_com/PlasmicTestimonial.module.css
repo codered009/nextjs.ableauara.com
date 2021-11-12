@@ -1,0 +1,173 @@
+.root {
+  box-shadow: 2px 4px 12px 0px #00000012;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 320px;
+  min-width: 320px;
+  border-radius: 16px;
+  padding: 24px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: unset;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 16px;
+}
+.root__noLink {
+  cursor: default;
+}
+.root__stretch {
+  width: 100%;
+  min-width: 0;
+}
+.root__stretch > :global(.__wab_flex-container) {
+  min-width: 0;
+}
+.freeBox__ra0P {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox__ra0P > :global(.__wab_flex-container) {
+  flex-direction: column;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__ra0P > :global(.__wab_flex-container) > *,
+.freeBox__ra0P > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ra0P > :global(.__wab_flex-container) > picture > img,
+.freeBox__ra0P
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.slotTargetQuote {
+  font-size: 13px;
+}
+.freeBox__jz12S {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__stretch__jz12Spi78J {
+  justify-content: flex-start;
+  align-items: center;
+  align-content: unset;
+}
+.freeBox__cCPb {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__cCPb > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__cCPb > :global(.__wab_flex-container) > *,
+.freeBox__cCPb > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__cCPb > :global(.__wab_flex-container) > picture > img,
+.freeBox__cCPb
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.img__kZfhD {
+  position: relative;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 24px;
+}
+.img__kZfhD > picture > img {
+  object-fit: cover;
+}
+.img__kZfhD > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox__xcnDa {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox___2Zz2O {
+  display: flex;
+  height: auto;
+}
+.slotTargetName {
+  font-weight: 600;
+  font-size: 13px;
+}
+.root__noLink:hover .slotTargetName__noLink {
+  color: rgb(50, 52, 54);
+}
+.root__noLink:hover .slotTargetName__noLink > .__wab_text,
+.root__noLink:hover .slotTargetName__noLink > .__wab_slot-string-wrapper,
+.root__noLink:hover .slotTargetName__noLink > .__wab_slot > .__wab_text,
+.root__noLink:hover
+  .slotTargetName__noLink
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.root__noLink:hover
+  .slotTargetName__noLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.root__noLink:hover
+  .slotTargetName__noLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.root__noLink:hover
+  .slotTargetName__noLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.root__noLink:hover
+  .slotTargetName__noLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: none;
+}
+.freeBox__hXmNp {
+  display: flex;
+  height: auto;
+}
+.slotTargetTitle {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #706f6c;
+}
+.freeBox__khoOn {
+  display: flex;
+  height: auto;
+}
+.slotTargetCompany {
+  font-family: "Inter", sans-serif;
+  font-size: 13px;
+  color: rgb(122, 125, 130);
+  line-height: 1.5;
+}

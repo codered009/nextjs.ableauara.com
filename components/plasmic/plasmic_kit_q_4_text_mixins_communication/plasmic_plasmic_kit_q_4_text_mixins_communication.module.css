@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C900&display=swap");
+.root_reset {
+  font-family: "Inter", sans-serif;
+  font-size: medium;
+  font-weight: normal;
+  font-style: normal;
+  color: #1b1b18 /* plasmic-token: 0IloF6TmFvF */;
+  text-align: initial;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+}
+
+:where(.root_reset) a,
+:where(.root_reset) .plasmic_default__a,
+a:where(.root_reset) {
+}

@@ -1,0 +1,83 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.text___0EjAm {
+  text-align: center;
+  color: rgba(0, 0, 0, 0);
+  text-decoration-line: none !important;
+  text-overflow: clip !important;
+  background: linear-gradient(333deg, #0091ff 0%, #96c7f2 100%) padding-box
+    /* clip: text **/;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.text___5CzFo {
+  height: auto;
+}
+.integrateAnywhereSection___7INtT:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
+.freeBox {
+  display: flex;
+  flex-direction: column;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 24px);
+  height: calc(100% + 24px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 24px;
+}
+.graphicIcon__eS9Y:global(.__wab_instance) {
+  position: relative;
+}
+.svg__yy9Xy {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: #0091ff;
+}
+.divider__rt1Ox:global(.__wab_instance) {
+  position: relative;
+  height: 1px;
+  flex-shrink: 0;
+}
+.text__vzSx {
+  height: auto;
+}
+.graphicIcon__mRnsH:global(.__wab_instance) {
+  position: relative;
+}
+.svg__aDveV {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: #0091ff;
+}
+.divider__ecy1V:global(.__wab_instance) {
+  position: relative;
+  height: 1px;
+  flex-shrink: 0;
+}
+.text__jfavf {
+  height: auto;
+}
+.graphicIcon__qkQg0:global(.__wab_instance) {
+  position: relative;
+}
+.svg__f6DKa {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: #0091ff;
+}

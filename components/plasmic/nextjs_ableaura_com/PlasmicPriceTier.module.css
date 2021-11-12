@@ -1,0 +1,83 @@
+.root {
+  box-shadow: 2px 4px 12px 0px #00000012;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  border-radius: 16px;
+  padding: 24px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 0;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 32px;
+}
+.freeBox__hfsC {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox__hfsC > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__hfsC > :global(.__wab_flex-container) > *,
+.freeBox__hfsC > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__hfsC > :global(.__wab_flex-container) > picture > img,
+.freeBox__hfsC
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.freeBox__mgoz {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.slotTargetTitle {
+  font-weight: 900;
+  font-size: 21px;
+  line-height: 1.38;
+  font-family: Really Sans Large;
+}
+.slotTargetPrice {
+  font-size: 32px;
+  line-height: 1.13;
+  font-family: Really Sans Large;
+  font-weight: 900;
+}
+.slotTargetSubprice {
+  font-size: 12px;
+  color: rgb(122, 125, 130);
+}
+.slotTargetValueProps {
+  line-height: 2;
+}
+.ctaLink {
+  display: flex;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+  min-width: 0;
+}
+.linky__deo7H:global(.__wab_instance) {
+  position: relative;
+}

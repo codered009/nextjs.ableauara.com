@@ -1,0 +1,145 @@
+.root {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  position: relative;
+  background: #f3f3f2;
+  min-width: 0;
+  padding: 64px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 32px;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .root {
+    padding: 64px 16px;
+  }
+}
+.productHuntBadge {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  left: auto;
+  top: auto;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.container23 {
+  max-width: 1024px;
+  box-shadow: 2px 4px 12px 0px #00000012;
+  background: url("/plasmic/nextjs_ableaura_com/images/image102.svg") left 50% top 50% / cover;
+  display: flex;
+  position: relative;
+  width: 100%;
+  flex-direction: column;
+  min-width: 0;
+  border-radius: 16px;
+  padding: 48px;
+}
+.container23 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.container23 > :global(.__wab_flex-container) > *,
+.container23 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.container23 > :global(.__wab_flex-container) > picture > img,
+.container23
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 32px;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .container23 {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  top: auto;
+  left: auto;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.text__lv6X9 {
+  font-size: 56px;
+  line-height: 1.07;
+  font-family: Really Sans Large;
+  font-weight: 900;
+  text-align: center;
+  color: rgba(0, 0, 0, 0);
+  background: linear-gradient(333deg, #6e56cf 0%, #c4b8f3 100%) 0% 0% / 100%
+    100% no-repeat padding-box /* clip: text **/ scroll;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .text__lv6X9 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+}
+.text__global_theme_altHeadlineFont__lv6X9ZbUeX {
+  font-family: "Poppins", sans-serif;
+}
+.text__xe07M {
+  position: relative;
+  left: auto;
+  top: auto;
+  text-align: center;
+  color: #ffffffeb;
+}
+.text__up4ES {
+  height: auto;
+  color: #20134b;
+}
+.svg {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: #20134b;
+}

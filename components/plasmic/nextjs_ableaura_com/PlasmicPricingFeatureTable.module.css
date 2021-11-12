@@ -1,0 +1,313 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: auto;
+  position: relative;
+  max-width: 800px;
+  min-width: 0;
+  padding: 24px;
+}
+.freeBox__bYfQ {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  min-width: 0;
+}
+.pricingFeatureTableRow__og5D1:global(.__wab_instance) {
+  position: relative;
+}
+.text___1GI1I {
+  font-weight: 600;
+}
+.text___3Xvbi {
+  height: auto;
+}
+.text__hXRo {
+  height: auto;
+}
+.svg__aai9V {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__uPbPs {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: 1px;
+  background: #e3e3e0;
+  min-width: 0;
+  flex-shrink: 0;
+}
+.pricingFeatureTableRow__z41PQ:global(.__wab_instance) {
+  position: relative;
+}
+.svg__pvoBs {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__vnl3R:global(.__wab_instance) {
+  position: relative;
+}
+.svg__vNawd {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__yAAh:global(.__wab_instance) {
+  position: relative;
+}
+.svg__ecm8V {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__cn0IG:global(.__wab_instance) {
+  position: relative;
+}
+.svg__chydA {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__qoY5:global(.__wab_instance) {
+  position: relative;
+}
+.svg___6WMy {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__cl1O6:global(.__wab_instance) {
+  position: relative;
+}
+.svg__k80Aj {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow___8KIno:global(.__wab_instance) {
+  position: relative;
+}
+.text__lLqy8 {
+  height: auto;
+}
+.svg__hce8Q {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__qEhAc:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__ybvTh {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow___5B6Ou:global(.__wab_instance) {
+  position: relative;
+}
+.svg__hco4H {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__uwZOc:global(.__wab_instance) {
+  position: relative;
+}
+.svg___0G5EB {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__sukgL:global(.__wab_instance) {
+  position: relative;
+}
+.svg__pjdEa {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow___1ZyxC:global(.__wab_instance) {
+  position: relative;
+}
+.svg__juFno {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__yvQqi:global(.__wab_instance) {
+  position: relative;
+}
+.svg__vTCq {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__sOm7T:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__elgAi {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__xFpk:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__yevHb {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__qM7F7:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__zhrfy {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__uAkoI:global(.__wab_instance) {
+  position: relative;
+}
+.svg__bb7Bw {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow___7KnUw:global(.__wab_instance) {
+  position: relative;
+}
+.svg__oCoQo {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__seb27:global(.__wab_instance) {
+  position: relative;
+}
+.svg__muGb {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__f9B8F:global(.__wab_instance) {
+  position: relative;
+}
+.svg__rpMve {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__rmB1:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__w08By {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow__fTic3:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__deDwk {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.pricingFeatureTableRow___6EOd4:global(.__wab_instance) {
+  position: relative;
+  display: none;
+}
+.svg__eugti {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}

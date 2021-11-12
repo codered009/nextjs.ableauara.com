@@ -1,0 +1,126 @@
+.root {
+  display: flex;
+  position: relative;
+  cursor: pointer;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+.root__style_lightGray {
+  background: #f3f3f2;
+}
+.root__style_noPadding {
+  padding: 0px;
+}
+.root__style_purpleSolid {
+  background: #8e4ec6;
+}
+.root__style_lightCyan {
+  background: #edf6ff;
+}
+.root__style_solidCyan {
+  background: #0091ff;
+}
+.root__leftAligned {
+  justify-content: flex-start;
+}
+.root__style_small_style_lightGray {
+  background: #eeeeec;
+  border-radius: 4px;
+}
+.root__style_solidCyan:hover {
+  background: #369eff;
+}
+.root:focus {
+  box-shadow: inset 0px 0px 0px 2px #0091ff;
+  outline: none;
+}
+.slotTargetChildren__global_theme_dark {
+  color: #ededec /* plasmic-token: N1gO6v-RIEn */;
+}
+.slotTargetChildren__style_small {
+  font-size: 15px;
+  line-height: 20px;
+}
+.slotTargetChildren__style_purpleSolid {
+  color: rgb(255, 255, 255);
+}
+.slotTargetChildren__style_lightCyan {
+  color: #0091ff;
+}
+.slotTargetChildren__style_solidCyan {
+  color: rgb(255, 255, 255);
+}
+.root:hover .slotTargetChildren {
+  color: #0091ff;
+}
+.root:hover .slotTargetChildren > .__wab_text,
+.root:hover .slotTargetChildren > .__wab_slot-string-wrapper,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_text,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_slot-string-wrapper,
+.root:hover .slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_text,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.root:hover
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: underline;
+}
+.root__style_solidCyan:hover .slotTargetChildren__style_solidCyan {
+  color: rgb(255, 255, 255);
+}
+.root:focus .slotTargetChildren {
+  color: #0091ff;
+}
+.root:focus .slotTargetChildren > .__wab_text,
+.root:focus .slotTargetChildren > .__wab_slot-string-wrapper,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_text,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_slot-string-wrapper,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_text,
+.root:focus
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.root:focus
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.root:focus
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: underline;
+}
+.root:focus .slotTargetChildren > *,
+.root:focus .slotTargetChildren > .__wab_slot > *,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_slot > *,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_slot > .__wab_slot > *,
+.root:focus .slotTargetChildren > picture > img,
+.root:focus .slotTargetChildren > .__wab_slot > picture > img,
+.root:focus .slotTargetChildren > .__wab_slot > .__wab_slot > picture > img,
+.root:focus
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > picture
+  > img {
+  outline: none;
+}

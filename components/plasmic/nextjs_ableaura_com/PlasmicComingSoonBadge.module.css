@@ -1,0 +1,18 @@
+.root {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  background: none;
+  position: relative;
+  display: none;
+  border-radius: 10px;
+  padding: 5px;
+}
+.root__comingSoon {
+  display: flex;
+}
+.text {
+  position: relative;
+  color: rgb(176, 179, 184);
+  font-size: 12px;
+}

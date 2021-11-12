@@ -1,0 +1,83 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  border-radius: 12px;
+  padding: 8px;
+}
+.root__colors_purple {
+  background: linear-gradient(0deg, #6e56cf 0%, #c4b8f3 100%);
+}
+.root__colors_cyan {
+  background: linear-gradient(0deg, #05a2c2 0%, #84cdda 100%);
+}
+.root__colors_orange {
+  background: linear-gradient(0deg, #f76808 0%, #ffb381 100%);
+}
+.root__colors_darkGraySolid {
+  background: #706f6c;
+}
+.root__colors_blue {
+  background: linear-gradient(0deg, #0091ff 0%, #96c7f2 100%);
+}
+.root__colors_red {
+  background: linear-gradient(0deg, #e54d2e 0%, #f3b0a2 100%);
+}
+.root__colors_lightBlueSolid {
+  background: #e1f0ff;
+}
+.root__colors_lightPurpleSolid {
+  background: #ede9fe;
+}
+.root__colors_lightPinkSolid {
+  background: #fce5f3;
+}
+.root__colors_lightCoralSolid {
+  background: #ffe6e2;
+}
+.root__colors_lightOrangeSolid {
+  background: #ffe8d7;
+}
+.root__colors_teal {
+  background: linear-gradient(0deg, #12a594 0%, #8dcec3 100%);
+}
+.root__colors_lightYellowSolid {
+  background: #fff8bb;
+}
+.root__colors_lightCyanSolid {
+  background: #d8f3f6;
+}
+.root__shape_circle {
+  border-radius: 50%;
+}
+.root__colors_green {
+  background: linear-gradient(0deg, #46a758 0%, #97cf9c 100%);
+}
+.root__colors_yellow {
+  background: linear-gradient(0deg, #f5d90a 0%, #efd36c 100%);
+}
+.root__colors_pink {
+  background: linear-gradient(0deg, #d6409f 0%, #ecadd4 100%);
+}
+.root__colors_coral {
+  background: linear-gradient(0deg, #f76808 0%, #ffb381 100%);
+}
+.root__colors_white {
+  background: #ffffff;
+}
+.root__colors_gray {
+  background: linear-gradient(0deg, #3e3e3a 0%, #717069 100%);
+}
+.root__colors_lightGraySolid {
+  background: #90908c;
+}
+.svg___0RIE {
+  object-fit: cover;
+  position: relative;
+  left: auto;
+  top: auto;
+  width: 32px;
+  height: 32px;
+  color: rgb(255, 255, 255);
+  flex-shrink: 0;
+}

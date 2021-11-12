@@ -1,0 +1,169 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 0;
+  margin-left: calc(0px - 13px);
+  width: calc(100% + 13px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 13px;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .root {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .root > :global(.__wab_flex-container) {
+    flex-direction: column;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 12px);
+    height: calc(100% + 12px);
+  }
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .root > :global(.__wab_flex-container) > *,
+  .root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .root > :global(.__wab_flex-container) > picture > img,
+  .root
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 12px;
+  }
+}
+.freeBox__kNkTj {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 30%;
+  height: auto;
+  left: auto;
+  top: auto;
+}
+.freeBox__kNkTj > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.freeBox__kNkTj > :global(.__wab_flex-container) > *,
+.freeBox__kNkTj > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__kNkTj > :global(.__wab_flex-container) > picture > img,
+.freeBox__kNkTj
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__kNkTj {
+    left: auto;
+    top: auto;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    min-width: 0;
+  }
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__kNkTj > :global(.__wab_flex-container) {
+    flex-direction: row;
+    align-items: baseline;
+    min-width: 0;
+    margin-left: calc(0px - 12px);
+    width: calc(100% + 12px);
+    margin-top: calc(0px - 0px);
+    height: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__kNkTj > :global(.__wab_flex-container) > *,
+  .freeBox__kNkTj > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__kNkTj > :global(.__wab_flex-container) > picture > img,
+  .freeBox__kNkTj
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 12px;
+    margin-top: 0px;
+  }
+}
+.freeBox__c4Rif {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  background: rgb(231, 243, 255);
+  flex-shrink: 0;
+  border-radius: 12px;
+  padding: 8px;
+}
+.slotTargetNum {
+  font-size: 20px;
+  font-weight: 900;
+  color: rgb(23, 99, 207);
+}
+.slotTargetDescrip {
+  font-size: 18px;
+  font-weight: 300;
+}
+.freeBox__j2PeL {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  top: auto;
+  left: auto;
+  overflow: hidden;
+  width: 70%;
+  height: auto;
+  max-height: 200px;
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  border: 1px solid rgb(201, 204, 209);
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__j2PeL {
+    left: auto;
+    top: auto;
+    align-items: stretch;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.img__tox3E {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__tox3E > picture > img {
+  object-fit: cover;
+}
+.img__tox3E > .__wab_img-spacer > img {
+  object-fit: cover;
+}

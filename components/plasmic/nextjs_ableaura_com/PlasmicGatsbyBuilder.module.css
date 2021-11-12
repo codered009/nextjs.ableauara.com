@@ -1,0 +1,98 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.root__global_theme_dark {
+  background: rgb(5, 5, 5);
+}
+.commonLandingPage:global(.__wab_instance) {
+  position: relative;
+  height: 7875px;
+  flex-shrink: 0;
+}
+.text___5TLpE {
+  text-align: center;
+  color: rgba(0, 0, 0, 0);
+  text-decoration-line: none !important;
+  text-overflow: clip !important;
+  background: linear-gradient(
+      333deg,
+      rgb(24, 119, 242) 0%,
+      rgb(118, 182, 255) 100%
+    )
+    padding-box /* clip: text **/;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.integrateAnywhereSection__taq8Y:global(.__wab_instance):global(.__wab_instance) {
+  position: relative;
+}
+.freeBox {
+  display: flex;
+  flex-direction: column;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 24px);
+  height: calc(100% + 24px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 24px;
+}
+.graphicIcon__ennC:global(.__wab_instance) {
+  position: relative;
+}
+.svg__wAr7T {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: rgb(24, 119, 242);
+}
+.divider__k0PsT:global(.__wab_instance) {
+  position: relative;
+  height: 1px;
+  flex-shrink: 0;
+}
+.text__lAOmb {
+  height: auto;
+}
+.graphicIcon___2BrSy:global(.__wab_instance) {
+  position: relative;
+}
+.svg__gabOi {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: rgb(24, 119, 242);
+}
+.divider__eQyNp:global(.__wab_instance) {
+  position: relative;
+  height: 1px;
+  flex-shrink: 0;
+}
+.text__czjQ {
+  height: auto;
+}
+.graphicIcon__ugfGw:global(.__wab_instance) {
+  position: relative;
+}
+.svg__o6Wek {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  color: rgb(24, 119, 242);
+}
